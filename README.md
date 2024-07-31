@@ -14,4 +14,3 @@ I'm currently building on top of Artificial Intelligence at Redex AI.
 
 - LinkedIn: [karthickmj](https://www.linkedin.com/in/karthickmj/)
 - Twitter: [karthickmj](https://twitter.com/KarthickMj01)
-- Email: karthickmj0111@gmail.com
